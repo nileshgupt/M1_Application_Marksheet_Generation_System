@@ -2,4 +2,4 @@
 
 ---
 
-![Component Diagram](../Screenshot_(1116).png)
+![Component Diagram](/../Screenshot_(1116).png)
