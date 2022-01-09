@@ -34,3 +34,22 @@ University or Schools can generate marksheet after entering marks of each subjec
 This Project can reduce manpower for generating marksheet.
 # HOW
 Education Institution generate marksheet by entering marks of student.
+4W's  1H
+What
+Rain sensor turns off irrigation system within minutes when rain falls. 
+
+
+Who
+People using car, trucks or vehicle having wipers there will use this system.
+
+When
+When rain will came it will work as per setted in the system.
+
+Where
+It is a mandatory requirement in each motor vehicle. It is almost used in every vehicle, including cars, trucks, train locomotives, watercraft with a cabin, and certain aircraft.
+
+
+
+How
+So here we propose an automatic wiper system that automatically switches 'ON' on detecting rain and stops when rain stops and dust sensor is also added, when it detects dust it will wipe. Our project brings forward this system to automate the wiper system having no need for manual intervention. For this purpose we use rain sensor and dust sensor along with microcontroller to drive the wiper motor. This system is equally useful version.
+
